@@ -22,16 +22,16 @@ This project implements a reliable UART communication system where data is trans
 ## Project Format Tree
 ```
 UART_Transmission/
-├── .vscode/              # VS Code Configuration Files
-├── include/              # Header Files
-├── lib/                  # External Libraries
-├── src/                  # Source Code
-│   └── main.cpp          # MCU Firmware Code
-├── test/                 # Test Suite
-├── .gitignore            # Git Ignore File
-├── platformio.ini        # PlatformIO Project Configuration
-├── new1.pdsprj           # Proteus Simulation File
-└── Screenshot/           # Screenshots of Output
+├── .vscode/              
+├── include/             
+├── lib/                
+├── src/                 
+│   └── main.cpp         
+├── test/                
+├── .gitignore            
+├── platformio.ini       
+├── new1.pdsprj          
+└── Screenshot/        
 
 ```
 
