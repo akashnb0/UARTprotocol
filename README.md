@@ -60,3 +60,4 @@ UART_Transmission/
 ## My Details
 - **Akash S**
 - [LinkedIn: www.linkedin.com/in/akashnb](https://www.linkedin.com/in/akashnb)
+- Mail: akashsweb@gmail.com
