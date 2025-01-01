@@ -31,7 +31,13 @@ UART_Transmission/
 ├── .gitignore            
 ├── platformio.ini       
 ├── new1.pdsprj          
-└── Screenshot/        
+└── Screenshot/
+|   └── outputa.jpg
+|   └── output2a.jpg
+|   └── output2b.jpg
+|   └── output3a.jpg
+|   └── output3b.jpg
+|   └── console.jpg       
 
 ```
 
