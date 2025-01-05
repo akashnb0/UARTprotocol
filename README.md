@@ -54,6 +54,7 @@ UART_Transmission/
 - The MCU stores the received data in EEPROM in real-time.
 ![Output](Screenshot/output2a.jpg)
 ![Output](Screenshot/output2b.jpg)
+
 ### Task 2: MCU to PC Communication
 - Data stored in EEPROM is read back by the MCU and transmitted to the PC.
 - Real-time data transfer speed is calculated and displayed.
